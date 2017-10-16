@@ -1,4 +1,5 @@
-Keras(TensorFlow)で学習済みモデルを応用して少ないデータで画像分類する[転移学習：Fine tuning]
-https://qiita.com/tsunaki/items/ab036ae6784902954778
+Keras(TensorFlow)で学習済みモデルを転用して少ないデータでも画像分類を実現する[転移学習：Fine tuning]
+
+https://qiita.com/tsunaki/items/fdf7c45db3d73159bd7a
 
 プログラムとデータ一式
